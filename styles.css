@@ -1,5 +1,5 @@
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI';
   margin: 0;
   background: linear-gradient(to right, #fceabb, #f8b500);
   color: #2d3436;
@@ -84,4 +84,5 @@ a:hover{
 
 .fade-in { animation: fadeIn 1s ease forwards; }
 .slide-up { animation: slideUp 1s ease forwards; }
+
 .zoom-in { animation: zoomIn 1s ease forwards; }
