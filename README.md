@@ -1,1 +1,0 @@
-# baxtiyorovshahriyor.github.io

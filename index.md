@@ -1,0 +1,54 @@
+# baxtiyorovshahriyor.github.io
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bakhtiyor Shahriyor's Bio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="section fade-in">
+<h1>👋 Hi, I'm Bakhtiyor Shahriyor</h1>
+<h3>I am a <b>Future Programmer</b>, driven by curiosity and a passion for solving problems through code. Every challenge I face is a step toward mastering <b>The Programming World.</b></h3>
+</header>
+
+<section class="section slide-up">
+<h2>📚 My Freshman Classes</h2>
+<ul>
+<h3>1. Academic English</h3>
+<h3>2. Academic English Reading</h3>
+<h3>3. Physics</h3>
+<h3>4. Physics Experiment</h3>
+<h3>5. Calculus</h3>
+<h3>6. Object-Orientated Programming</h3>
+<h3>7. Introduction to IT</h3></div>
+</ul>
+</section>
+
+<section class="section fade-in">
+<h2>🎬 Favorite Movies</h2>
+<ol>
+<a href="https://www.imdb.com/title/tt2267968/"><h3>1st Place: Kung Fu Panda 3</h3></a>
+<a href="https://www.imdb.com/title/tt1302011/"><h3>2nd Place: Kung Fu Panda 2</h3></a>
+<a href="https://www.imdb.com/title/tt0441773/"><h3>3rd Place: Kung Fu Panda 1</h3></a>
+</ol>
+</section>
+
+<section class="section zoom-in">
+<h2>📸 Photos of Mine</h2>
+  <img src="Images/photo_5222339950727073107_y.jpg" alt="Bakhtiyor's photo" class="profile-photo">
+  <img src="Images/photo_5222339950727073108_y.jpg" alt="Bakhtiyor's photo" class="profile-photo">
+<h3 style="text-align: center;">This is me in GOOD and BAD mood.</h3>
+</section>
+
+<section class="section slide-up">
+<h2>👨‍👩‍👧‍👦 Facts About My Neighbor:</h2>
+<h4 class="h3">Fact №1: His Full Name is Muxtorjonov Behzod</h4>
+<h4 class="h3">Fact №2: He always thinks that he is a Aura Farmer, even through, actually, he is not.</h4>
+<h4 class="h3">Fact №3: He learned how to speak in Russian language in just a year</h4>
+</section>
+
+</body>
+</html>
